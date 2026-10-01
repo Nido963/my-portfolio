@@ -1,0 +1,177 @@
+/* ================= Show pages: Habitus / What if tomorrow / In Motion ================= */
+
+.show-detail {
+  --outline: rgba(0, 0, 0, 0.5) -1px -1px 0, rgba(0, 0, 0, 0.5) -1px 1px 0, rgba(0, 0, 0, 0.5) 1px 1px 0,
+    rgba(0, 0, 0, 0.5) 1px -1px 0;
+  position: relative;
+  padding: 39px 0 40px;
+  color: #fff;
+  font-family: var(--f-barlow);
+  font-weight: 200;
+  text-shadow: var(--outline);
+}
+.show-detail b,
+.show-detail strong {
+  font-weight: 500;
+}
+
+.show-detail__back {
+  position: absolute;
+  left: 87px;
+  top: 37px;
+  width: 17px;
+  height: 29px;
+  color: #fff;
+  transition: opacity 0.2s;
+}
+.show-detail__back svg {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+.show-detail__back:hover {
+  opacity: 0.7;
+}
+
+.show-detail__col {
+  width: 593px;
+  max-width: 100%;
+  margin-left: 196px;
+}
+
+.sd-title {
+  font-weight: 500;
+  font-style: italic;
+  font-size: 35px;
+  line-height: 1.2;
+  color: var(--white-soft);
+}
+
+.sd-credits p,
+.sd-section p {
+  font-size: 18px;
+  line-height: normal;
+  text-align: justify;
+}
+.sd-credits a,
+.sd-section a {
+  color: #fff;
+}
+
+.sd-section {
+  margin-top: 26px;
+}
+.sd-section + .sd-section {
+  margin-top: 30px;
+}
+.sd-section p + p {
+  margin-top: 1.1em;
+}
+.sd-section.is-small p {
+  font-size: 17px;
+  text-align: left;
+}
+.sd-h2 {
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 1.2;
+  color: var(--white-soft);
+}
+
+.sd-people-h {
+  margin-top: 56px;
+  font-family: var(--f-mono);
+  font-weight: 700;
+  font-size: 43px;
+  line-height: 1.2;
+  color: var(--white-soft);
+}
+.sd-people {
+  display: grid;
+  gap: 32px;
+  margin-top: 4px;
+}
+.sd-people.no-heading {
+  margin-top: 96px;
+}
+.sd-person img {
+  width: 76%;
+  max-width: 488px;
+  height: auto;
+}
+.sd-person h3 {
+  margin-top: 6px;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: normal;
+}
+.sd-person p {
+  margin-top: 4px;
+  font-size: 18px;
+  line-height: normal;
+  text-align: justify;
+}
+.sd-person p.is-small {
+  font-size: 17px;
+  text-align: left;
+}
+
+/* ---------- Video block at the bottom ---------- */
+.sd-media {
+  margin-top: 80px;
+  text-align: center;
+}
+.sd-media__h {
+  font-family: var(--f-mont);
+  font-weight: 700;
+  font-size: 43px;
+  line-height: 1.2;
+  color: var(--white-soft);
+}
+.sd-media__videos {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+.sd-media .video-embed {
+  width: 360px;
+  max-width: 100%;
+  aspect-ratio: 360 / 220;
+}
+.sd-media .video-embed.is-fb {
+  aspect-ratio: 360 / 200;
+  background: #000;
+}
+
+.sd-media.is-left {
+  text-align: left;
+  padding-left: 96px;
+}
+.sd-media.is-left .sd-media__videos {
+  justify-content: flex-start;
+}
+
+@media (max-width: 999px) {
+  .show-detail {
+    padding-top: 72px;
+  }
+  .show-detail__back {
+    left: 0;
+    top: 24px;
+  }
+  .show-detail__col {
+    width: auto;
+    margin-left: 0;
+  }
+  .sd-person img {
+    width: 100%;
+  }
+  .sd-media.is-left {
+    padding-left: 0;
+  }
+  .sd-media__h,
+  .sd-people-h {
+    font-size: 34px;
+  }
+}

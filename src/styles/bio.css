@@ -1,0 +1,221 @@
+/* ================= Bio / About ================= */
+
+.bio {
+  background: #000;
+  color: #fff;
+  font-family: var(--f-barlow);
+  font-weight: 200; /* Wix "barlow-extralight" */
+}
+.bio b,
+.bio strong {
+  font-weight: 500; /* Wix synthesises bold from the extralight cut */
+}
+
+.bio-h {
+  font-family: var(--f-mono);
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 1.17;
+}
+
+/* ---------- Collective intro ---------- */
+.bio-intro {
+  padding: 146px 0 0 90px;
+}
+.bio-intro__text {
+  width: 757px;
+  max-width: 100%;
+  font-size: 16px;
+  line-height: 1.7;
+  text-align: justify;
+}
+
+/* ---------- Founder ---------- */
+.bio-founder {
+  position: relative;
+}
+.bio-founder__stage {
+  position: relative;
+  height: 492px;
+}
+.bio-founder__portrait {
+  position: absolute;
+  left: 360px;
+  top: 0;
+  width: 420px;
+}
+.bio-founder__portrait img {
+  width: 420px;
+  height: 549px;
+  object-fit: cover;
+  filter: grayscale(1) contrast(1.05);
+}
+.bio-founder__caption {
+  position: absolute;
+  left: 90px;
+  top: 288px;
+  z-index: 1;
+}
+.bio-founder__quote {
+  width: 345px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.7;
+  text-align: justify;
+}
+.bio-founder__role {
+  margin-top: -5px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.7;
+}
+.bio-founder__text {
+  position: relative;
+  z-index: 1;
+  width: 799px;
+  max-width: 100%;
+  margin-left: 90px;
+  font-size: 16px;
+  line-height: 1.7;
+  text-align: justify;
+}
+
+/* ---------- Rules ---------- */
+.bio-rule {
+  border: 0;
+  border-top: 2px solid #fff;
+  margin: 23px 0 0;
+  width: 100%;
+}
+
+/* ---------- Professional experiences ---------- */
+.bio-exp {
+  padding: 31px 0 10px;
+}
+.bio-spaced-h {
+  margin-left: 60px;
+  font-family: var(--f-mono);
+  font-weight: 700;
+  font-size: 26px;
+  letter-spacing: -0.1em;
+  white-space: pre-wrap;
+  line-height: 1.2;
+}
+.bio-exp__block {
+  margin: 20px 0 0 90px;
+  max-width: 861px;
+}
+.bio-exp__block:first-of-type {
+  margin-top: 22px;
+}
+.bio-exp__heading {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.7;
+  letter-spacing: 0.05em;
+}
+.bio-exp__line {
+  font-size: 15px;
+  line-height: 1.25;
+}
+.bio-exp__line.is-sub {
+  padding-left: 66px;
+}
+
+/* ---------- Education ---------- */
+.bio-edu {
+  padding: 30px 0 28px;
+}
+.bio-edu__h {
+  margin-left: 68px;
+  font-size: 26px;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.bio-edu__list {
+  list-style: none;
+  margin: 14px 0 0 90px;
+  padding: 0;
+  max-width: 839px;
+  font-size: 15px;
+  line-height: 1.25;
+}
+.bio-edu__list li::before {
+  content: '● ';
+}
+
+/* ---------- Bottom photo ---------- */
+.bio-bottom {
+  padding-top: 23px;
+}
+.bio-bottom img {
+  width: 873px;
+  height: 569px;
+  max-width: 100%;
+  object-fit: cover;
+  margin-left: 50px;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 999px) {
+  .bio-intro {
+    padding: 64px 0 0;
+  }
+  .bio-intro__text {
+    width: auto;
+  }
+  .bio-founder {
+    padding-top: 32px;
+  }
+  .bio-founder__stage {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  .bio-founder__portrait,
+  .bio-founder__caption {
+    position: static;
+  }
+  .bio-founder__portrait {
+    width: min(420px, 100%);
+    margin: 0 auto;
+  }
+  .bio-founder__portrait img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 420 / 549;
+  }
+  .bio-founder__caption {
+    margin-top: 20px;
+  }
+  .bio-founder__quote {
+    width: auto;
+    max-width: 420px;
+  }
+  .bio-founder__text {
+    width: auto;
+    margin: 20px 0 0;
+  }
+  .bio-spaced-h {
+    margin-left: 0;
+    font-size: 20px;
+  }
+  .bio-exp__block {
+    margin-left: 0;
+  }
+  .bio-exp__line.is-sub {
+    padding-left: 24px;
+  }
+  .bio-edu__h {
+    margin-left: 0;
+    font-size: 22px;
+  }
+  .bio-edu__list {
+    margin-left: 0;
+  }
+  .bio-bottom img {
+    margin: 0;
+    height: auto;
+    aspect-ratio: 873 / 569;
+  }
+}

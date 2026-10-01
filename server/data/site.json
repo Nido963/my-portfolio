@@ -1,0 +1,519 @@
+{
+  "site": {
+    "name": "Collectif Nafass",
+    "domain": "nafassdance.com",
+    "email": "collectifnafass@gmail.com",
+    "nav": [
+      { "label": "Home", "to": "/" },
+      { "label": "About", "to": "/bio" },
+      { "label": "Shows", "to": "/shows-1" },
+      { "label": "Videos", "to": "/#videos" },
+      { "label": "Press", "to": "/press" },
+      { "label": "Contact Us", "to": "/#contact" }
+    ],
+    "social": [
+      { "name": "Facebook", "url": "https://www.facebook.com/collectifnafass/", "icon": "/media/site/facebook-grey.png" },
+      { "name": "Instagram", "url": "https://www.instagram.com/collectif.nafass/", "icon": "/media/site/instagram-grey.png" },
+      { "name": "YouTube", "url": "https://www.youtube.com/channel/UCsY09vEiu5srPf1q4SUmRMg", "icon": "/media/site/youtube-grey.png" }
+    ]
+  },
+
+  "home": {
+    "title": "Nidal Abdo | Collectif Nafass | Paris",
+    "hero": {
+      "heading": "Collective Nafass",
+      "image": "/media/home/hero.jpg"
+    },
+    "videos": [
+      { "youtubeId": "sdBUP4hY4Bw", "title": "In Motion" },
+      { "youtubeId": "DLFtna1t8Go", "title": "What if tomorrow?", "subtitle": "Extérieur/outdoor" },
+      { "youtubeId": "0t_Ix7_ze48", "title": "HABITUS" },
+      { "youtubeId": "fEQfq8ko4Ow", "title": "What if tomorrow?", "subtitle": "Intérieur/indoor" },
+      { "youtubeId": "UjB061gHK8U", "title": "Guiti News: la vision Du Nafass" }
+    ],
+    "gallery": {
+      "width": 1450,
+      "height": 2674.05,
+      "items": [
+        { "id": "430726fe-bd82-498d-b87e-bf9b61439394", "src": "/media/gallery/01.jpg", "title": "Habitus", "description": "Photo by Slown Zhr", "x": 0, "y": 0, "w": 468, "h": 468 },
+        { "id": "4d70ddc4-3045-4bdf-ae47-de62320d4045", "src": "/media/gallery/02.jpg", "title": "From festival Syrien n'est fait", "description": "©sara kontar", "x": 468, "y": 0, "w": 281, "h": 187 },
+        { "id": "aafd3aa5-62f8-4de1-9c3e-baf609b0fbf8", "src": "/media/gallery/03.jpg", "title": "Habitus", "description": "Photo by Slown Zhr", "x": 468, "y": 187, "w": 281, "h": 281 },
+        { "id": "0bee2fc1-7375-433d-bc24-91f910cc8f14", "src": "/media/gallery/04.jpg", "title": "Habitus", "description": "Photo by Mohammed Mouadmmani", "x": 749, "y": 0, "w": 701, "h": 468 },
+        { "id": "2e1b7281-2479-4f38-8da6-46ff07418754", "src": "/media/gallery/05.jpg", "title": "Habitus", "description": "Photo by Slown Zhr", "x": 0, "y": 467.745, "w": 357, "h": 357 },
+        { "id": "f2dcb1ac-733e-4fbc-8b64-600bf4fb2b94", "src": "/media/gallery/06.jpg", "title": "Le printemps de la danse arabe, Institut du monde arabe", "description": "©Maonicorner", "x": 0, "y": 824.745, "w": 357, "h": 238 },
+        { "id": "8fcb0860-4fb7-4901-b3ec-6f6f12635932", "src": "/media/gallery/07.jpg", "title": "Habitus", "description": "Photo by Slown Zhr", "x": 357, "y": 467.745, "w": 595, "h": 595 },
+        { "id": "83312f27-eb71-4ecf-93c6-4a4801f55d58", "src": "/media/gallery/08.jpg", "title": "From festival Syrien n'est fait", "description": "©Mario jarweh", "x": 952, "y": 467.745, "w": 498, "h": 294 },
+        { "id": "7329acf3-0cbc-41e9-800b-0e9d7a02a9d3", "src": "/media/gallery/09.jpg", "title": "Habitus", "description": "Photo by Mohammed Mouadmmani", "x": 952, "y": 761.745, "w": 498, "h": 301 },
+        { "id": "a969ce54-e4c6-4978-a137-5bb27ea840ec", "src": "/media/gallery/10.jpg", "title": "Habitus", "description": "Photo by Slown Zhr", "x": 0, "y": 1062.37, "w": 420, "h": 420 },
+        { "id": "e23029e8-8b43-41b6-9ca5-aa4276393335", "src": "/media/gallery/11.jpg", "title": "Le printemps de la danse arabe, Institut du monde arabe", "description": "©Maonicorner", "x": 420, "y": 1062.37, "w": 180, "h": 240 },
+        { "id": "1a492810-39e6-4d18-9831-f334b3a892f7", "src": "/media/gallery/12.jpg", "title": "Habitus", "description": "Photo by Slown Zhr", "x": 420, "y": 1302.37, "w": 180, "h": 180 },
+        { "id": "1ec4704c-71dc-431f-ad5a-ef65152946ee", "src": "/media/gallery/13.jpg", "title": "Habitus", "description": "Photo by Mohammed Mouadmmani", "x": 600, "y": 1062.37, "w": 850, "h": 420 },
+        { "id": "9fb1473a-3b7b-4481-8d71-a665b1aa9d2d", "src": "/media/gallery/14.jpg", "title": "From festival Syrien n'est fait", "description": "©sara kontar", "x": 0, "y": 1482.4, "w": 367, "h": 245 },
+        { "id": "a8a2c9ac-e904-45a2-b3fd-e31ad38a2eac", "src": "/media/gallery/15.jpg", "title": "Habitus", "description": "Photo by Slown Zhr", "x": 0, "y": 1727.4, "w": 367, "h": 367 },
+        { "id": "ee9004b9-ff88-45d5-b49d-a391bc202092", "src": "/media/gallery/16.jpg", "title": "Habitus", "description": "Photo by Mohammed Mouadmmani", "x": 367, "y": 1482.4, "w": 1083, "h": 612 },
+        { "id": "2df3a0ed-cf5e-482b-8ebe-692da99ad914", "src": "/media/gallery/17.jpg", "title": "Habitus", "description": "Photo by Slown Zhr", "x": 0, "y": 2094.05, "w": 580, "h": 580 },
+        { "id": "87e22631-b88e-4416-b145-1661cef10f8f", "src": "/media/gallery/18.jpg", "title": "Habitus", "description": "Photo by Mohammed Mouadmmani", "x": 580, "y": 2094.05, "w": 870, "h": 580 }
+      ]
+    },
+    "quote": {
+      "image": "/media/home/guillemets.png",
+      "text": "Nafass  From Arabic نَفَسْ  Deep Breath, Essential For Life"
+    },
+    "contact": {
+      "heading": "Contact Us",
+      "facebookPage": "https://www.facebook.com/collectifnafass",
+      "lines": [
+        { "text": "collectifnafass@gmail.com", "href": "mailto:collectifnafass@gmail.com" },
+        { "text": "Facebook : @collectifnafass" },
+        { "text": "Instagram : @collectif.nafass" }
+      ],
+      "social": [
+        { "name": "Facebook", "url": "https://www.facebook.com/collectifnafass/?ref=bookmarks", "icon": "/media/site/facebook-contact.png" },
+        { "name": "YouTube", "url": "https://www.youtube.com/watch?v=DLFtna1t8Go", "icon": "/media/site/youtube-contact.png" },
+        { "name": "Instagram", "url": "https://www.instagram.com/collectif.nafass/", "icon": "/media/site/instagram-contact.png" }
+      ],
+      "middleImage": "/media/home/contact-middle.jpg",
+      "rightImage": "/media/home/contact-right.jpg",
+      "signature": "nidal abdo"
+    }
+  },
+
+  "bio": {
+    "title": "Bio | Collectif Nafass",
+    "collective": {
+      "heading": "COLLECTIVE NAFASS",
+      "text": "Since 2018, the Nafass Collective has brought together artists from diverse backgrounds to create and perform unique theatrical experiences at both regional and global festivals. The name Nafass, which means \"Breath\" in Arabic, reflects the essential role that breath plays in the style of dance performed by the collective. With each movement, the dancers breathe in creative visualization and choreography that explores real-world syndromes and behavioral challenges and breathe out artistic storylines that combine the art of body language, music, and visual scenography."
+    },
+    "founder": {
+      "portrait": "/media/bio/nidal-portrait.png",
+      "quote": "“In the past, it was challenging for my stories to be expressed. Now that I understand their shape and form, I feel ready. It’s time for me to spotlight the stories of others..”",
+      "name": "NIDAL ABDO",
+      "role": "Founder of Collective Nafass",
+      "html": "Born in 1989, Nidal Abdo is Palestinian by his father and Ukrainian by his mother. From the Yarmouk camp in Syria where he was born he started dancing at a young age at the Ballet Dance School of the Higher Institute of Dramatic Arts in Damascus in 1999, then his journey began with the Syrian Enana dance company in 2005 to be a trained dancer in the beginnings until he became a professional dancer participating and traveling with the band in many festivals and in different countries. To Caracalla dance company in 2010 danced there for 7 years.He gained many experiences in different types of dance such as Marta Graham's style, Modern Jazz, Contemporary, folkloric dance. &nbsp;he ended up in Paris, France, where he completed his diploma in Modern-jazz, at the National Institute of Dance in Paris ¨Center National de la Danse¨He founded the Collective Nafass in early 2018 in France. he is a member of l'atelier des artistes en exil &nbsp;He participated with Nafass in European and Arab festivals, with his first show “<em>What If Tomorrow”.</em>"
+    },
+    "experiencesHeading": "P R O F E S S I O N A L    E X P E R I E N C E S",
+    "experiences": [
+      {
+        "heading": "Collectif Nafass founder and Choreographer",
+        "lines": [
+          { "html": "First creation <b><i>PROJECLIES</i></b> in Berlin 2016" },
+          { "html": "Second creation <b><i>WHAT IF TOMORROW</i></b> Paris 2018" },
+          { "html": "- Syrien n'est fait festival, Paris August 2018", "sub": true },
+          { "html": "- Institut du monde arabe; Paris March 2019", "sub": true },
+          { "html": "- Ramallah contemporary dance festival,&nbsp; April 2019", "sub": true },
+          { "html": "- Rencontres de Carthage,&nbsp; June 2019", "sub": true },
+          { "html": "- Napoli Teatro festiva, June 2019", "sub": true },
+          { "html": "Third creation <i><b>IN MOTION</b></i> Paris 2020" },
+          { "html": "- Festival Vision d'exil,&nbsp; Paris November 2020", "sub": true },
+          { "html": "- Festival Syrien n'est fait,Paris December 2020", "sub": true },
+          { "html": "Fourth creation <b><i>HABITUS</i></b> Paris 2021" },
+          { "html": "- Theatre Romain Rolland, Paris April 2021", "sub": true },
+          { "html": "- La nuit européenne des musées, Mac Val Musée d'art contemorain, Paris July 2021", "sub": true },
+          { "html": "- Ramallah contemoprary dance festival, \"online\" July 2021", "sub": true },
+          { "html": "- La Dynamo de banlieues bleues, Paris September 2021", "sub": true },
+          { "html": "- LA BRIQUETERIE - CDCN du Val-de-Marne, April 2022", "sub": true },
+          { "html": "- Ramallah contemoprary dance festivl July 2023", "sub": true },
+          { "html": "- Chez Bushwick, Brooklyn, New York&nbsp; August 2023", "sub": true },
+          { "html": "- The Invisible Dog, Brooklyn, New York August 2023", "sub": true }
+        ]
+      },
+      { "heading": "Theatre De La Ville , Paris&nbsp; France&nbsp;-&nbsp; May 2021 Present", "lines": [{ "html": "Artistic consultation, Dancer, choregrapher" }] },
+      { "heading": "PALAIS ROYAL PARIS, COLONNES DE BUREN, August 2021", "lines": [{ "html": "Folkloric dance Dabkeh workshops &amp; contemporary dance" }] },
+      { "heading": "Contemporary Dance workshop (online) Ramallah Contemporary Festival, July 2021", "lines": [{ "html": "Body contact and floor dance work" }] },
+      { "heading": "Sima Dance Company, Dubai UAE&nbsp;-&nbsp; March 2020", "lines": [{ "html": "Modern Jazz workshops &amp; contemperory dance&nbsp;classes" }] },
+      { "heading": "JamilBouthayna Dance Musical,Alula KSA- December 2019 till Februray2020", "lines": [{ "html": "Dance Musical with Caracalla dance theatre,&nbsp;Beirut" }] },
+      { "heading": "VA VOIR LA-BAS SI J'Y SUIS - ATELIER DES ARTISTES EN EXIL - November 2018", "lines": [{ "html": "Dancer corps de ballet - contemporary creation by Thierry Niang - Festival Visions d'exil Paris - France" }] },
+      { "heading": "I-ZONE - COLLECTIF KORZéAM - October 2018", "lines": [{ "html": "Ballet dancer - contemporary creation - Théâtre El Duende - Ivry sur Seine - France" }] },
+      { "heading": "DISNEYLAND PARIS - November 2016 _ April 2018", "lines": [{ "html": "Dancer and face character - France" }] },
+      { "heading": "SINGS WITH DANCE - BALLET G. GARONNE - June _ November 2016", "lines": [{ "html": "Corps de ballet dancer - contemporary creation - Intermittent - Paris - France" }] },
+      { "heading": "MUSICAL COMEDY &nbsp;\"JESUS CHRIST SUPERSTAR\" - March _ July 2016", "lines": [{ "html": "Corps de ballet dancer - Intermittent - Theater Trier - Germany" }] },
+      { "heading": "CARACALLA DANCE SCHOOL – BEIRUT LEBANON – January&nbsp;2013 _ Decmber 2015", "lines": [{ "html": "Dance teacher of contemporary and &nbsp;jazz , Caracalla style (contemporary folklore) And Dabkeh" }] },
+      {
+        "heading": "CARACALLA DANCE THEATRE - BEIRUT LEBANON - February 2010 À 2016",
+        "lines": [
+          { "html": "Manama/Bahrain: National Theatre of Bahrain - \"<b><i>Kan Ya Ma Kan</i></b>\" - February 2016" },
+          { "html": "Beijing - China - Opera House - \"<i><b>Kan Ya Ma Kan</b></i>\", Once upon a time - February 2016" },
+          { "html": "Milan - Italy - Universal Exhibition - \"<i><b>Kan Ya Ma Kan</b></i>\", Once upon a time - September 2015" },
+          { "html": "Beirut - Lebanon - Closing of the Spring Festival - \"<i><b>Beirut was and will be</b></i>\" - June 2015" },
+          { "html": "Doha - Qatar - 13th United Nations Congress - \"<i><b>Village Opera</b></i>\" - September 2014" },
+          { "html": "Beijing - China - Beijing International University - \"<i><b>The Art of Folklore</b></i>\" - September 2014" },
+          { "html": "Beirut - Lebanon - Caracalla Theatre - \"<i><b>Kan Ya Ma Kan</b></i>\" - 97 performances from January 2014 to June 2014" },
+          { "html": "Muscat - Oman - Opera House - \"<i><b>Kan Ya Ma Kan</b></i>\"- May 2013" },
+          { "html": "Rimini - Italy - Rimini Festival - \"<i><b>Village Opera</b></i>\" - August 2012" },
+          { "html": "Beittidine - Lebanon - Opening of the International Festival - \"<i><b>Kan Ya Ma Kan</b></i>\" - July 2012" },
+          { "html": "Paris - France - Palais des Congrès - \"<i><b>Zayed and the Dream</b></i>\" - May 2012" },
+          { "html": "Beirut - Lebanon - Caracalla Theatre - \"<i><b>Village Opera</b></i>\" - 87 performances from December 2011 to May 2012" },
+          { "html": "Los Angeles - USA - Royce Hall UCLA - \"<i><b>Zayed and the Dream</b></i>\" - July 2011" },
+          { "html": "Washington - USA - Kennedy Center - \"<i><b>Zayed and the Dream</b></i>\" - July 2011" },
+          { "html": "Dubai - United Arab Emirates - Palladium - \"<i><b>Zayed and the Dream</b></i>\" - December 2010" }
+        ]
+      },
+      {
+        "heading": "ENANA DANCE THEATRE -&nbsp;SYRIA, DUBAI, CANADA &nbsp;- March 2006 _ Januray 2010",
+        "lines": [
+          { "html": "Doha - Qatar - Opening Capital of Culture - \"<i><b>The House of Wisdom</b></i>\" - 2009" },
+          { "html": "Bahrain - Kingdom of Bahrain - Opening of the Summer Festival - \"<i><b>Zenobia Queen of the East</b></i>\" - 2009" },
+          { "html": "Abu Dhabi - United Arab Emirates - National Theatre - \"<i><b>The Eagle of Quraish</b></i>\" - 2009" },
+          { "html": "Carthage - Tunisia - Carthage Festival - \"Sinbad\" and \"<i><b>The Eagle of Quraish</b></i>\" - 2008 and 2009" },
+          { "html": "Adan - Yemen - Cultural Centre - \"<i><b>The Night is Full of Stars</b></i>\" - 2008" },
+          { "html": "Muscat - Oman - Opening of the Muscat Festival - \"<i><b>The Prince of the Seas</b></i>\" and \"Oman: The Promise and the Journey\" - 2007 Kuwait - Kuwait - 10th International Music Festival - \"<i><b>Queen Daifa Khatoun</b></i>\" - 2007" }
+        ]
+      }
+    ],
+    "educationHeading": "E D U C A T I O N",
+    "education": [
+      "2019 / STATE DIPLOMA OF MODERN JAZZ DANCE TEACHER, CENTRE NATIONAL DE LA DANSE, PARIS",
+      "2018&nbsp; / TAP DANCE TRAINING, SWINGTAP DANCE STUDIO, PARIS",
+      "2016&nbsp; / LIVRET DE FORMATION DE DANSEUR PROFESSIONNEL, EXAMEN D'APTITUDE TECHNIQUE ( EAT ), DRAC RHÔNEALPES",
+      "2005 - 2010&nbsp; / JAZZ AND CONTEMPORARY DANCE SCHOOL, ENANA BALLET DANCE SCHOOL, DAMASCUS, SYRIA",
+      "1999 - 2005 /&nbsp; CLASSICAL BALLET DANCE SCHOOL, HIGHER INSTITUTE OF DRAMATIC ART, DAMASCUS, SYRIA"
+    ],
+    "bottomImage": "/media/bio/bottom.jpg"
+  },
+
+  "shows": {
+    "title": "Shows | Collectif Nafass",
+    "background": "/media/shows/background.jpg",
+    "items": [
+      { "slug": "habitus", "title": "Habitus", "image": "/media/shows/habitus.jpg", "align": "left-middle" },
+      { "slug": "what-if-tomorrow", "title": "What if tomorrow", "image": "/media/shows/what-if-tomorrow.jpg", "align": "left-top" },
+      { "slug": "in-motion", "title": "In motion", "image": "/media/shows/in-motion.jpg", "align": "right-middle" }
+    ],
+    "buttonLabel": "See more"
+  },
+
+  "showPages": {
+    "habitus": {
+      "title": "Habitus | Collectif Nafass",
+      "background": "/media/habitus/background.jpg",
+      "heading": "Habitus",
+      "credits": [
+        "3 dancers",
+        "Duration: 40 minutes",
+        "Choreography: Nidal Abdo",
+        "Assistant choreographer: Cynthia Dariane",
+        "Scenography: Khaled Alweare",
+        "Music: &nbsp;Osloob<br>Costumes: Rahme Alzghair",
+        "&nbsp;VFX: Mohammad Hijazi",
+        "Lighting: Philippe Gladieux",
+        "Co-Producer: <a href=\"https://aa-e.org/en/\" target=\"_blank\" rel=\"noreferrer noopener\">Agency of artists in exile</a>",
+        "Production: Collective Nafass"
+      ],
+      "sections": [
+        {
+          "heading": "ABOUT THE SHOW",
+          "paragraphs": [
+            "My work reflects on the relationship between our bodies and the territories in which they evolve. I am interested in bodies that are exiled, de-territorialised, displaced. Our bodies are shaped by our habitus. We are rarely conscious of what drives them, and what pushes them to act a certain way. Unintentionally, we are responding to social expectations that dictate our behaviours. As children, teenager and adults, we replicate specific movements without knowing what pushes us to perform them, sometimes with discomfort, disconnect or discordance. Nevertheless, we need routines to make one with society and with others.",
+            "The threefold dimension of my identity leaves me wondering: what kind of relationship do I have with my own body? Am I certain I ever owned myself and have I ever belonged to the right place? I was born in Yarmouk, the largest Palestinian camp in Syria, a city inside the city intended as a temporary haven. Therefore, I am longing for a land that I have never known. I am the child of a stateless father born in Syria and an Ukrainian mother, later on I was forced into exile by the war. Exile generates an intense process of dispossession. In order to be able to settle into a new place, and to be socially integrated, I have to conform to a new routine. Thus, I need to adopt new movements and to “mimic” a behaviour that puts me off"
+          ]
+        }
+      ],
+      "peopleHeading": "Dancers",
+      "people": [
+        {
+          "name": "Cynthia Dariane",
+          "image": "/media/habitus/cynthia-dariane.jpg",
+          "bio": "For Cynthia, dance is a life discipline and an identity. In addition to her stage performances, Cynthia obtained the French State diploma in jazz dance teaching. Strong believer of the richness of heteroclites, she also has a PhD in French Literature focusing on the relationship between literature and dance, and a Masters in dance research. Involved in choreography, theater, concerts, teaching, and conferences, Cynthia is an all-rounder who juggles between the worlds of writing, literature and dance"
+        },
+        {
+          "name": "Katell Ollier",
+          "image": "/media/habitus/katell-ollier.jpg",
+          "bio": "Trained at the ballet dance school since childhood, then followed a multidisciplinary professional dance formation. She came to Paris when she was 18 years old and she has been working in several companies and famous Parisian stages as \"Le Paradis Latin\", \"Bobino\", \"Le Lido de Paris\". She produced herself on different TV shows and Musical shows. She participated either as a dancer or an assistant choreographer on contemporary creations in France."
+        },
+        {
+          "name": "Nidal Abdo",
+          "image": "/media/habitus/nidal-abdo.jpg",
+          "bio": "Nidal started dancing at a young age at the Ballet Dance School of the Higher Institute of Dramatic Arts in Damascus 1999, and in 2005 became a professional dancer participating with Enana Dance Theatre in different festivals and countries. To Caracalla Dance Theatre in 2010 danced there for 7 years.. He ended up in Paris, France, where he completed his diploma in Modern-jazz, at the National Institute of Dance in Paris. He founded Collective Nafass in early 2018 in France"
+        }
+      ],
+      "media": {
+        "heading": "Habitus",
+        "videos": [{ "type": "youtube", "id": "0t_Ix7_ze48" }]
+      }
+    },
+
+    "what-if-tomorrow": {
+      "title": "\"What if tomorrow...\" | Collectif Nafass",
+      "background": "/media/what-if-tomorrow/background.jpg",
+      "heading": "What if tomorrow",
+      "credits": [
+        "4 dancers",
+        "Duration: 20 minutes",
+        "Choreography : Nidal Abdo",
+        "Music: Trio Joubran and Osloob<br>Costumes: Samer Al Kurdi",
+        "Lighting: Jimmy Boury",
+        "Co-Producer: <a href=\"https://aa-e.org/en/\" target=\"_blank\" rel=\"noreferrer noopener\">Agency of artists in exile</a>",
+        "Production: Collective Nafass"
+      ],
+      "sections": [
+        {
+          "heading": "INTENTIONS",
+          "paragraphs": [
+            "I am always there… without being there. “There” is Syria. The country where I was born and raised, but not quite mine. Syria, the country that made me&nbsp;Arab culture, that instilled in me aspirations and music and offered me stage brothers. A country that, for the past 6 years, has been torn and that is like most of us, drifting away. So, I learned to forget, by immersing myself in the present. I thought I would heal.&nbsp;<br>“Do you think the Earth gets used to spinning?” wrote Nadia Tueini, a Lebanese poet. I would add, “Do you think mankind gets used to living?”. When I decided to write “Et si demain…” (What if tomorrow…), I was surprised to learn that others were as ready as I am. More than a first creation, this piece will be a means of catharsis. It will be our way of expressing our suffering, this feeling inside that we still are not comfortable talking about because it is too intimate or too sensitive… Or, we simply cannot find the words to express it. Nidal Abdo"
+          ]
+        },
+        {
+          "heading": "ABOUT THE SHOW",
+          "paragraphs": [
+            "War leaves a deep scar onto a country, whichever country it may be. Sudden or dormant, its impact echoes, affecting trajectories, identities, integration and belonging. Why me? Why us? Why mankind?<br>To live “within” this flow of unanswered questions rather than “after” it, is what the Nafass collective aimed to express in its first creation entitled “Et si demain…” (What if tomorrow…). Flashbacks, denial, pain, grief, emotions: the five senses do not fool. One’s body does not lie. It expresses itself, recounts its story and lays its soul bare. The spectator discovers then a frantic race for a past that no longer exists. A beloved but condemned past, portrayed by these four Syrian-Palestinian dancers. Suddenly, the silence… as if to convey the need for intimacy. To discover oneself alone, fragile, drained… Contortions, suspense, escapes testify to the long and brutal process of abandonment and acceptance that these artists face. And what if a revival dawned on the horizon? What if tomorrow…"
+          ]
+        }
+      ],
+      "peopleHeading": "Dancers",
+      "people": [
+        {
+          "name": "SAMER AL KURDI",
+          "image": "/media/what-if-tomorrow/samer-al-kurdi.jpg",
+          "bio": "From Linz,&nbsp;Austria. With his 15-year career as a dancer and choreographer - from Damascus to Beirut and Dubai - Samer Al Kurdi collects an extensive experience in various types of folk dances and Eastern arts. He likes questionning interculturality. He graduated from Anton Bruckner University Linz - Austria where he has lived for the past 4 years."
+        },
+        {
+          "name": "MAHER ABDUL MOATY",
+          "image": "/media/what-if-tomorrow/maher-abdul-moaty.jpg",
+          "bio": "From Trier,&nbsp;Germany. As a Syrian dancer and choreographer, Maher has been a member of various Arab dance companies such as Enana, Ornina Dance Theater and Caracalla ballets in Lebanon. He is currently involved in many international projects and he settled&nbsp; in Trier - Germany since 2015."
+        },
+        {
+          "name": "ALAAEDDIN BAKER",
+          "image": "/media/what-if-tomorrow/alaaeddin-baker.jpg",
+          "bio": "Lives in Amsterdam,&nbsp;Netherlands. Alaaeddin Baker Syrian is a performer and choreographer,&nbsp;he has been dancing for more than 10 years. He has participated in various projects in the Middle East and internationally."
+        }
+      ],
+      "media": {
+        "heading": "Spoken about us",
+        "align": "left",
+        "videos": [
+          { "type": "facebook", "url": "https://www.facebook.com/AFPfra/videos/1834908386545707" },
+          { "type": "facebook", "url": "https://www.facebook.com/FRANCE24.English/videos/10156769839044434" }
+        ]
+      }
+    },
+
+    "in-motion": {
+      "title": "In Motion | Collectif Nafass",
+      "background": "/media/in-motion/background.jpg",
+      "heading": "In Motion",
+      "credits": [
+        "1 dancer",
+        "1 Musician&nbsp;",
+        "Duration: 12 minutes",
+        "Choreography: Nidal Abdo",
+        "Scenography: Khaled Alweare",
+        "Music: &nbsp;Pooya Alinia",
+        "Co-Producer: <a href=\"https://aa-e.org/en/\" target=\"_blank\" rel=\"noreferrer noopener\">Agency of artists in exile</a>",
+        "Production: Collective Nafass"
+      ],
+      "sections": [
+        {
+          "heading": "ABOUT THE SHOW",
+          "small": true,
+          "paragraphs": [
+            "The intensity of the past while’s isolation put us through a greater challenge than what we’ve ever expected, took us to even darker places that we’ve never visited nor we were ready to digest.. and as the time pass by our realizations took us beyond the norm and we started to realize that this is all meant to be.. it meant to be to adapt!",
+            "Here we are taking from that isolation the opportunity to reshape the form of our creative thoughts, transcend the uncertainty, break through the fear of the unknown and interpreting our feelings through the wavelength of the body and the soul... Packaging everything in one art piece and transferring it “IN MOTION”",
+            "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;_________________________________________________",
+            "L’isolement du confinement a replongé avec intensité dans notre passé, nous a emporté dans des endroits sombres encore jamais visité ou que nous n’étions pas prêts a digérer... et le temps est passé; nos realisations nous ont amené au delà des normes et nous avons commencé a comprendre tout ce que cela signifiait... cela voulait dire&nbsp;",
+            "Avec cet isolement, nous avons l’opportunité de redonner forme a nos idées créatives, de transcender l’incertain, de briser la peur de l’inconnu et de traduire nos sentiments à travers les ondes du corps et de l’âme",
+            "&nbsp;Tout emballer dans une seule oeuvre d’art et le transferrer dans “IN MONTION”"
+          ]
+        }
+      ],
+      "peopleHeading": null,
+      "people": [
+        {
+          "name": "Pooya Alinia",
+          "image": "/media/in-motion/pooya-alinia.jpg",
+          "small": true,
+          "bio": "Born in 1986 in Teheran, Iran, Pooya Alinia is a composer, arranger and a musician specialized in classical guitar. He is also a pianist and an instrumentalist. He studied at the Music University of Teheran, then taught classical guitar, piano and music theory for 10 years. He specialized in composition for cinema and theatre and won numerous awards in various festivals. He collaborated with various singers in Iran, composed and arranged their albums. He arrived in France in 2019 and he is a member of the agency of artists in exile."
+        },
+        {
+          "name": "Nidal Abdo",
+          "image": "/media/in-motion/nidal-abdo.jpg",
+          "bio": "Nidal started dancing at a young age at the Ballet Dance School of the Higher Institute of Dramatic Arts in Damascus 1999, and in 2005 became a professional dancer participating with Enana Dance Theatre in different festivals and countries. To Caracalla Dance Theatre in 2010 danced there for 7 years.. He ended up in Paris, France, where he completed his diploma in Modern-jazz, at the National Institute of Dance in Paris. He founded Collective Nafass in early 2018 in France"
+        }
+      ],
+      "media": {
+        "heading": "In Motion",
+        "videos": [{ "type": "youtube", "id": "sdBUP4hY4Bw" }]
+      }
+    }
+  },
+
+  "press": {
+    "title": "Press | Collectif Nafass",
+    "background": "/media/press/background.jpg",
+    "heading": "What did the news talk about us",
+    "buttonLabel": "Lire l'article complet",
+    "articles": [
+      {
+        "id": "ecc53",
+        "logo": "/media/press/logo-relaxnews.png",
+        "logoAlt": "Relaxnews",
+        "logoSize": [204, 88],
+        "date": "Date: 22 Mars 2019",
+        "title": "A Paris, un chorégraphe de Syrie fait danser les traumatismes de guerre",
+        "popup": {
+          "paper": true,
+          "title": "A Paris, un chorégraphe de Syrie fait danser les traumatismes de guerre",
+          "paragraphs": [
+            "(AFP) - Enfant, Nidal Abdo était une sorte de \"Billy Elliot\" syrien, seul garçon dans une école de ballet à Damas. Devenu chorégraphe, il présente à Paris sa première création: une danse sur l'exil et les&nbsp;traumatismes de la guerre. Né dans le camp de réfugiés désormais ravagé de Yarmouk, aujourd'hui dans la capitale syrienne, le jeune homme de 29 ans, fils d'un père palestinien et d'une mère ukrainienne, a quitté la Syrie il y a huit ans, dès les premiers mois du conflit.",
+            "\"A un moment je devais choisir: soit je reste et je risquais d'être enrôlé par l'armée, soit je pars et je recommence à zéro ailleurs\", affirme à l'AFP le chorégraphe grand aux yeux noisette, installé à Paris depuis 2016.<br>\"Je construisais ma vie d'artiste, je ne pouvais pas imaginer être un jour sur scène et le lendemain prendre des armes et être au front\", ajoute-t-il après une répétition à l'Institut du Monde Arabe (IMA).",
+            "C'est là où il présentera vendredi le spectacle \"Et si demain\", pour la deuxième édition du \"Printemps de la danse arabe\" (22 mars-28 juin)&nbsp;qui réunit cette année les créations de 13 chorégraphes, du Liban jusqu'aux Comores, en passant par la Tunisie. Torse nu, Nidal et les trois autres danseurs de son collectif \"Nafass\" (souffle en arabe) qu'il a fondé en 2018 ondulent, se recroquevillent et perforaient une gestuelle à la fois poignante et débridée pour évoquer pendant 20 minutes leur ressentiment après leur exil.",
+            "Le tout sur un mélange de musique orientale et d'électro, signée d'Osloob, un rappeur palestinien, et le Trio Joubran, également des musiciens palestiniens.<br>\"Je n’ai pas vécu la guerre comme mes amis mais j'ai voulu parler du syndrome du trouble post-traumatique (PTSD) dont souffre la majorité des exilés, sans que l'on sache ce que c'est\", précise Nidal, qui confie avoir des amis syriens à Paris qui sursautent encore en voyant un policier ou en entendant un avion.",
+            "\"Mon père m'appelait artiste\" - Avec les danseurs Samer al Kurdi, Alaaeddin Baker et Maher abdul Moaty -exilés comme lui en Europe- il a voulu transmettre la&nbsp;souffrance de ne pas pouvoir revenir au pays, mais surtout cet écartèlement entre passé et présent.<br>\"Nous vivons dans un endroit meilleur, nous arrivons à rebâtir notre vie, mais en même temps il y a quelque chose qui nous retient en arrière... on pense à l'avenir mais on n'arrive pas à se débarrasser du passé\", affirme le Syro-palestinien. Un passé qui le renvoie à son enfance à Yarmouk, ses écoles, ses quartiers, \"la convivialité qui y régnait\" mais surtout par des débuts bien particuliers dans la danse.",
+            "\"Ma mère ukrainienne était professeur de piano. A mes 9 ans, elle m'a emmené à l'école de ballet au Conservatoire supérieur des arts dramatiques de Damas. Au début c'était difficle, j'étais seul parmi des filles et être un garçon qui fait du ballet à Damas...\", dit-il avant d'imiter les ricanements de ceux qui se moquaient de lui.<br>Au bout de la deuxième année, et avec les encouragements de sa mère mais aussi de son père, un professeur universitaire, le petit garçon blond aux cheveux longs a commencé à aimer le rythme, la musique, la manière de bouger sur scène.",
+            "\"Ma mère me disait +demain, tu verras-l-... mon père m'appelait +artiste-l-\", se rappelle-t-il.<br>Par la suite, il a assimilé d'autres techniques -folklore, jazz- auprès la compagnie damascène Enana, elle aussi déracinée et aujoud'hui basée au Canada. Après son départ de Syrie, il fait des tournées internationales avec la réputée compagnie libanaise Caracalla Dance Theatre.\"C'était tellement excitant pour moi d'apprendre d'Abdel Halim Caracalla (fondateur de la compagnie) qui lui-même a suivi une formation avec Martha Graham\" à Londres, précise Nidal en référence à la mère de la danse moderne.",
+            "Il fait partie de cette génération de jeunes chorégraphes arabes qui tentent d'apposer leur marque sur la danse contemporaine mondiale. \"On donne une touche orientale de par notre musique et nos mouvements qui reposent beaucoup sur la gestuelle des mains et des hanches\".<br>Nidal dit ressentir souvent une \"culpabilité d'être un privilégié\" à Paris, où il est devenu membre de l'Atelier des artistes en exil. \"Mais la vie continue\", sourit-il."
+          ],
+          "images": [{ "src": "/media/press/afp-photo.jpg", "alt": "Collectif_Nafass_1_©Maonicorner", "width": 213 }],
+          "closeButton": true
+        }
+      },
+      {
+        "id": "ecc54",
+        "logo": "/media/press/logo-le-monde.png",
+        "logoAlt": "Le Monde",
+        "logoSize": [232, 48],
+        "date": "Date: 22 Mars 2019",
+        "title": "A Paris, la danse arabe dans sa diversité",
+        "popup": {
+          "title": "A Paris, la danse arabe dans sa diversité",
+          "subtitle": "Sept lieux accueillent treize chorégraphes pour la deuxième édition du festival de l’IMA",
+          "images": [
+            { "src": "/media/press/le-monde-1.png", "width": 600 },
+            { "src": "/media/press/le-monde-2.png", "width": 600 }
+          ]
+        }
+      },
+      {
+        "id": "ecc55",
+        "logo": "/media/press/logo-lettre-du-spectacle.png",
+        "logoAlt": "La Lettre du Spectacle",
+        "logoSize": [200, 80],
+        "date": "Date: 15 Mars 2019",
+        "title": "L'Atelier des artistes en exil de plus en plus producteur",
+        "popup": {
+          "images": [{ "src": "/media/press/lettre-du-spectacle.png", "width": 729 }]
+        }
+      },
+      {
+        "id": "ecc57",
+        "logo": "/media/press/logo-16.png",
+        "logoAlt": "Press logo",
+        "logoSize": [240, 51],
+        "date": "Date: 16 Mars 2019",
+        "title": "Un printemps pour la danse contemporaine arabe",
+        "popup": {
+          "title": "Un printemps pour la danse contemporaine arabe",
+          "titleCenter": true,
+          "images": [
+            { "src": "/media/press/printemps-1.png", "width": 600 },
+            { "src": "/media/press/printemps-2.png", "width": 388 }
+          ]
+        }
+      },
+      {
+        "id": "ecc58",
+        "logo": "/media/press/logo-01-mars.jpg",
+        "logoAlt": "Press logo",
+        "logoSize": [154, 100],
+        "date": "Date: 01 Mars 2019",
+        "title": "L'exil au corps",
+        "popup": {
+          "images": [
+            { "src": "/media/press/exil-au-corps-1.png", "width": 600 },
+            { "src": "/media/press/exil-au-corps-2.png", "width": 679 }
+          ]
+        }
+      },
+      {
+        "id": "ecc59",
+        "logo": "/media/press/logo-gazelle.png",
+        "logoAlt": "Gazelle",
+        "logoSize": [220, 49],
+        "date": "Date: Mars - Avril 2019",
+        "title": "LE PRINTEMPS DE LA DANSE À L’IMA",
+        "popup": {
+          "images": [{ "src": "/media/press/gazelle.png", "width": 676 }]
+        }
+      },
+      {
+        "id": "ecc5a",
+        "logo": "/media/press/logo-la-terrasse.jpg",
+        "logoAlt": "La Terrasse",
+        "logoSize": [232, 80],
+        "date": "Date: Mars 2019",
+        "title": "Institut du Monde Arabe",
+        "popup": {
+          "images": [{ "src": "/media/press/la-terrasse.png", "width": 708 }]
+        }
+      },
+      {
+        "id": "ecc5b",
+        "logo": "/media/press/logo-banniere.jpg",
+        "logoAlt": "Press banner",
+        "logoSize": [258, 43],
+        "date": "Date: 28 Mars 2019",
+        "title": "Printemps de la Danse Arabe – Un autre regard sur les chorégraphes contemporains",
+        "popup": {
+          "title": "Printemps de la Danse Arabe – Un autre regard sur les chorégraphes contemporains",
+          "titleCenter": true,
+          "images": [
+            { "src": "/media/press/autre-regard-1.png", "width": 696 },
+            { "src": "/media/press/autre-regard-2.png", "width": 688 }
+          ]
+        }
+      },
+      {
+        "id": "ecc5c",
+        "logo": "/media/press/logo-25-mars-a.png",
+        "logoAlt": "Press logo",
+        "logoSize": [192, 49],
+        "date": "Date: 25 Mars 2019",
+        "title": "Le Printemps de la danse arabe",
+        "popup": {
+          "title": "Le Printemps de la danse arabe",
+          "titleCenter": true,
+          "images": [
+            { "src": "/media/press/printemps-25-mars-1.png", "width": 600 },
+            { "src": "/media/press/printemps-25-mars-2.png", "width": 600 }
+          ]
+        }
+      },
+      {
+        "id": "ecc5d",
+        "logo": "/media/press/logo-25-mars-b.png",
+        "logoAlt": "Press logo",
+        "logoSize": [241, 50],
+        "date": "Date: 25 Mars 2019",
+        "title": "L’IMA célèbre un nouveau Printemps de la danse arabe",
+        "popup": {
+          "images": [{ "src": "/media/press/ima-celebre.png", "width": 709 }]
+        }
+      },
+      {
+        "id": "ecc5e",
+        "logo": "/media/press/logo-froggys-delight.png",
+        "logoAlt": "Froggy's Delight",
+        "logoSize": [236, 60],
+        "date": "Date: 24 Mars 2019",
+        "title": "Festival le Printemps de la danse arabe",
+        "popup": {
+          "title": "Festival le Printemps de la danse arabe",
+          "titleCenter": true,
+          "images": [{ "src": "/media/press/froggys-delight.png", "width": 769 }]
+        }
+      },
+      {
+        "id": "ecc5f",
+        "logo": "/media/press/logo-23-mars.jpg",
+        "logoAlt": "Press logo",
+        "logoSize": [220, 50],
+        "date": "Date: 23 Mars 2019",
+        "title": "Le Printemps de la danse arabe célèbre les chorégraphes contemporains",
+        "popup": {
+          "title": "Le Printemps de la danse arabe célèbre les chorégraphes contemporains",
+          "titleCenter": true,
+          "images": [{ "src": "/media/press/chroregraphes-contemporains.png", "width": 745 }]
+        }
+      }
+    ]
+  }
+}

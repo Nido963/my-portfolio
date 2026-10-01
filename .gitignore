@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.idea/
+
+# Original saved Wix pages: kept locally for reference, not part of the app
+_wix-reference/
